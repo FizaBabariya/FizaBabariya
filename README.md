@@ -50,13 +50,19 @@ Python Neo4j HuggingFace PyTorch CPU Optimization
 
 ## 📈 GitHub Stats
 
-![Fiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FizaBabariya&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FizaBabariya&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FizaBabariya&theme=radical&hide_border=true" alt="Streak Stats" width="48%"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FizaBabariya&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FizaBabariya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%"/>
+</div>
 
-## 💬 Let's Connect!
+## 🎨 Appearance Customization
 
-I'm actively looking for opportunities in *AI/ML Engineering* and *Cloud Development*. Feel free to reach out!
+You can customize your stats cards with these parameters:
 
-[![LinkedIn](https://img.shields.io/badge/-Message_me_on_LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fiza-babariya-a94a47261/)
-[![Email](https://img.shields.io/badge/-Send_me_an_Email-red?style=flat-square&logo=gmail)](mailto:fizababariya@gmail.com)
+```markdown
+![Stats](https://github-readme-stats.vercel.app/api?username=FizaBabariya&theme=THEME_NAME)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FizaBabariya&theme=THEME_NAME)
