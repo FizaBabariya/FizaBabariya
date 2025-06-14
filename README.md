@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fiza Babariya
 
-*Final Year Computer Science Student* | *AI/ML Enthusiast* | *Cloud Developer*  
+*Final Year Computer Science Student* | *AI/ML Enthusiast*  
 📍 Bharuch, Gujarat | 💼 Open to Opportunities  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiza-babariya-a94a47261/)
@@ -40,7 +40,7 @@ Python Neo4j HuggingFace PyTorch CPU Optimization
 *Parul University*  
 🎓 B.Tech in Computer Science and Engineering (2022-2026)  
 📊 CGPA: 9.30/10  
-📝 Relevant Coursework: AI/ML, Cloud Computing, Data Structures, Databases
+📝 Relevant Coursework: AI/ML, Data Structures, Databases
 
 ## 🏆 Achievements & Certifications
 
@@ -59,10 +59,4 @@ Python Neo4j HuggingFace PyTorch CPU Optimization
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FizaBabariya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%"/>
 </div>
 
-## 🎨 Appearance Customization
 
-You can customize your stats cards with these parameters:
-
-```markdown
-![Stats](https://github-readme-stats.vercel.app/api?username=FizaBabariya&theme=THEME_NAME)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FizaBabariya&theme=THEME_NAME)
